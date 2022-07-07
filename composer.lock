@@ -4,20 +4,20 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "480002b1d33ddf85ffce6e21e01ac3e8",
+    "content-hash": "005aaf1d60da39058fee3cd9b7be5bfa",
     "packages": [
         {
             "name": "amphp/amp",
-            "version": "v3.0.0-beta.6",
+            "version": "v3.0.0-beta.8",
             "source": {
                 "type": "git",
                 "url": "https://github.com/amphp/amp.git",
-                "reference": "d8d0b8fabe62cc52749cd01242d1730a43c4802e"
+                "reference": "41764f01ef37057f990165d5de4d3b3122dc6c93"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/amphp/amp/zipball/d8d0b8fabe62cc52749cd01242d1730a43c4802e",
-                "reference": "d8d0b8fabe62cc52749cd01242d1730a43c4802e",
+                "url": "https://api.github.com/repos/amphp/amp/zipball/41764f01ef37057f990165d5de4d3b3122dc6c93",
+                "reference": "41764f01ef37057f990165d5de4d3b3122dc6c93",
                 "shasum": ""
             },
             "require": {
@@ -84,7 +84,7 @@
             ],
             "support": {
                 "issues": "https://github.com/amphp/amp/issues",
-                "source": "https://github.com/amphp/amp/tree/v3.0.0-beta.6"
+                "source": "https://github.com/amphp/amp/tree/v3.0.0-beta.8"
             },
             "funding": [
                 {
@@ -92,20 +92,20 @@
                     "type": "github"
                 }
             ],
-            "time": "2022-04-20T04:52:32+00:00"
+            "time": "2022-06-25T18:22:59+00:00"
         },
         {
             "name": "amphp/byte-stream",
-            "version": "v2.0.0-beta.8",
+            "version": "v2.0.0-beta.10",
             "source": {
                 "type": "git",
                 "url": "https://github.com/amphp/byte-stream.git",
-                "reference": "00adeed1340e79ce5851c4b0d275afb2004854a1"
+                "reference": "0c2b2ab89517fa0fcc50f91400cc66275af03301"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/amphp/byte-stream/zipball/00adeed1340e79ce5851c4b0d275afb2004854a1",
-                "reference": "00adeed1340e79ce5851c4b0d275afb2004854a1",
+                "url": "https://api.github.com/repos/amphp/byte-stream/zipball/0c2b2ab89517fa0fcc50f91400cc66275af03301",
+                "reference": "0c2b2ab89517fa0fcc50f91400cc66275af03301",
                 "shasum": ""
             },
             "require": {
@@ -164,7 +164,7 @@
             ],
             "support": {
                 "issues": "https://github.com/amphp/byte-stream/issues",
-                "source": "https://github.com/amphp/byte-stream/tree/v2.0.0-beta.8"
+                "source": "https://github.com/amphp/byte-stream/tree/v2.0.0-beta.10"
             },
             "funding": [
                 {
@@ -172,7 +172,7 @@
                     "type": "github"
                 }
             ],
-            "time": "2022-04-03T17:06:46+00:00"
+            "time": "2022-06-25T17:15:00+00:00"
         },
         {
             "name": "amphp/cache",
@@ -458,22 +458,22 @@
         },
         {
             "name": "amphp/process",
-            "version": "v2.0.0-beta.3",
+            "version": "v2.0.0-beta.4",
             "source": {
                 "type": "git",
                 "url": "https://github.com/amphp/process.git",
-                "reference": "509742a0ac6e9253cfd38f10039ddd8768300d57"
+                "reference": "432c72e21bfca2a45a323ed152fcf05a0b847f6d"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/amphp/process/zipball/509742a0ac6e9253cfd38f10039ddd8768300d57",
-                "reference": "509742a0ac6e9253cfd38f10039ddd8768300d57",
+                "url": "https://api.github.com/repos/amphp/process/zipball/432c72e21bfca2a45a323ed152fcf05a0b847f6d",
+                "reference": "432c72e21bfca2a45a323ed152fcf05a0b847f6d",
                 "shasum": ""
             },
             "require": {
                 "amphp/amp": "^3",
                 "amphp/byte-stream": "^2",
-                "php": ">=8",
+                "php": ">=8.1",
                 "revolt/event-loop": "^0.2"
             },
             "require-dev": {
@@ -514,7 +514,7 @@
             "homepage": "https://github.com/amphp/process",
             "support": {
                 "issues": "https://github.com/amphp/process/issues",
-                "source": "https://github.com/amphp/process/tree/v2.0.0-beta.3"
+                "source": "https://github.com/amphp/process/tree/v2.0.0-beta.4"
             },
             "funding": [
                 {
@@ -522,7 +522,7 @@
                     "type": "github"
                 }
             ],
-            "time": "2022-02-02T23:08:25+00:00"
+            "time": "2022-07-07T03:28:18+00:00"
         },
         {
             "name": "amphp/serialization",
