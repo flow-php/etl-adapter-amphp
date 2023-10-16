@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace Flow\ETL\Async\Tests\Unit\Server;
+namespace Flow\ETL\Adapter\AMPHP\Tests\Unit\Server;
 
 use Flow\ETL\Async\Amp\Server\SocketServer;
 use Flow\ETL\Async\Socket\Server\ServerProtocol;

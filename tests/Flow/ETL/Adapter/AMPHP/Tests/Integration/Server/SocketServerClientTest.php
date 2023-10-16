@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace Flow\ETL\Async\Tests\Integration\Server;
+namespace Flow\ETL\Adapter\AMPHP\Tests\Integration\Server;
 
 use const Amp\Process\IS_WINDOWS;
 use function Amp\async;
